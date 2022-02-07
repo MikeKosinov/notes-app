@@ -15,6 +15,6 @@ You can:
 
 ### CLI commands
 
-Use *--help* argument to show information about **Notes app** commands 
+Use *--help* argument in  `.\app.js --help` command  to show information about **Notes app** commands 
 
-> node .\app.js --help
+
